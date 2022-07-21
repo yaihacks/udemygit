@@ -1,2 +1,6 @@
 new file for nff merging
+<<<<<<< HEAD
 this will do conflict
+=======
+changing here for conflict
+>>>>>>> 13d76a1 (simple file edited)
