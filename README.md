@@ -1,5 +1,6 @@
 # starter web project
-## introduction
+just adding 
 ## deployment
+modifying something
 ## purpose
 ## how to contribute
