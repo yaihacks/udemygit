@@ -1,4 +1,4 @@
-#starter web project
+# starter web project
 ## introduction
 ## deployment
 ## purpose
